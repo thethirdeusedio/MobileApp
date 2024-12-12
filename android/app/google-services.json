@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026993281706",
+    "project_id": "churchserviceplanner-b467f",
+    "storage_bucket": "churchserviceplanner-b467f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026993281706:android:a0cf9af8a2988000424ed3",
+        "android_client_info": {
+          "package_name": "com.example.church_service_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBBOsQ-8qQwOFOYAyhUt_fDE0e6mEHXZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

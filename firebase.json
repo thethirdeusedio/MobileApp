@@ -1,0 +1,23 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "churchserviceplanner-b467f",
+                    "appId": "1:1026993281706:android:a0cf9af8a2988000424ed3",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "churchserviceplanner-b467f",
+                    "configurations": {
+                        "android": "1:1026993281706:android:a0cf9af8a2988000424ed3",
+                        "ios": "1:1026993281706:ios:09662c353f98c703424ed3",
+                        "web": "1:1026993281706:web:3d592ee425f9201a424ed3"
+                    }
+                }
+            }
+        }
+    }
+}
